@@ -1,6 +1,6 @@
 # Changelog
 
-## [1.4] – En cours de développement
+## [Unreleased] – En cours..
 
 ### Objectif
 Amélioration de la fiabilité BPM.
