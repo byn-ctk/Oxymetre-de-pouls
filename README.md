@@ -1,7 +1,12 @@
 # Oxymètre de pouls
 
 ## Description
-Ce projet consiste à développer un oxymètre de pouls basé sur le capteur MAX30102, en améliorant la bibliothèque SparkFun d’origine.
+
+Ce projet implémente un oxymètre de pouls embarqué capable de mesurer :
+- la fréquence cardiaque (BPM)
+- la saturation en oxygène du sang (SpO₂)
+
+L’objectif est d’exploiter pleinement le potentiel du capteur MAX30102 en améliorant la bibliothèque SparkFun d'origne.
 
 Le travail actuel se concentre principalement sur la fiabilité de la mesure de la fréquence cardiaque (BPM), avec une gestion plus robuste du signal et des conditions réelles d’utilisation.
 
