@@ -1,6 +1,6 @@
 # Changelog
 
-## [1.5] – En cours de développement
+## [1.4] – En cours de développement
 
 ### Objectif
 Amélioration de la fiabilité BPM.
@@ -16,7 +16,7 @@ Amélioration de la fiabilité BPM.
 
 ---
 
-## [1.4] – Amélioration cohérence globale
+## [1.3.1] – Amélioration cohérence globale
 
 ### Objectif
 Amélioration global du code et implémentation de garde-fou.
@@ -33,7 +33,7 @@ Amélioration global du code et implémentation de garde-fou.
 
 ---
 
-## [1.3] – Stabilisation avancée du BPM
+## [1.3.0] – Stabilisation avancée du BPM
 
 ### Ajouts
 - Moyenne pondérée du BPM (priorité aux valeurs récentes)
@@ -50,7 +50,7 @@ Amélioration global du code et implémentation de garde-fou.
 
 ---
 
-## [1.2] – Stabilisation initiale du BPM
+## [1.2.0] – Stabilisation initiale du BPM
 
 ### Ajouts
 - Moyenne des valeurs BPM
@@ -64,7 +64,7 @@ Amélioration global du code et implémentation de garde-fou.
 
 ---
 
-## [1.1] – Calcul du BPM
+## [1.1.0] – Calcul du BPM
 
 ### Ajouts
 - Intégration de l'algorithme de détection des battements cardiaques natif de chez SparkFun
@@ -76,7 +76,7 @@ Amélioration global du code et implémentation de garde-fou.
 
 ---
 
-## [1.0] – Initialisation capteur
+## [1.0.0] – Initialisation capteur
 
 ### Ajouts
 - Initialisation du MAX30102
