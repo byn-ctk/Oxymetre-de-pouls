@@ -33,7 +33,7 @@ Amélioration global du code et implémentation de garde-fou.
 
 ---
 
-## [1.3.0] – Stabilisation avancée du BPM
+## [1.3.0] – Stabilisation avancée du BPM (historique de code indisponible avant cette version)
 
 ### Ajouts
 - Moyenne pondérée du BPM (priorité aux valeurs récentes)
