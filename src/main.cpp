@@ -1,7 +1,7 @@
 #include <Arduino.h>
 /* Arduino uno :
-    SDA : A4,
-    SCL : A5
+    SDA : D14,
+    SCL : D15.
 */
 
 #include "MAX30105.h"
