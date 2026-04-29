@@ -1,5 +1,5 @@
 # Oxymètre de pouls
-> À partir de la version 2.0.0, le projet migre vers STM32 afin de permettre l’intégration de la SpO2. L’Arduino Uno reste une base fonctionnelle pour la mesure BPM, mais sa mémoire SRAM est trop limitée pour l’intégration complète BPM + SpO2.
+> À partir de la version 1.4.0, le projet migre vers STM32 afin de permettre l’intégration de la SpO2. L’Arduino Uno reste une base fonctionnelle pour la mesure BPM, mais sa mémoire SRAM est trop limitée pour l’intégration complète BPM + SpO2.
 
 ## Description
 
