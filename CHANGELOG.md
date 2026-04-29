@@ -1,21 +1,18 @@
 # Changelog
 
-## [2.0.0] - Migration vers STM32 pour intégration SpO2 (en cours)
+## [1.4.0] - Portage sur STM32 | 2026-04-29
 
-### Ajouté
-- Migration du projet vers un controleur STM32.
-- Préparation de l’intégration SpO2 avec lecture des signaux RED et IR.
-- Préparation de buffers SpO2 adaptés à une carte disposant de plus de mémoire RAM.
 
 ### Modifié
-- Changement de cible matérielle principale : passage de l’Arduino Uno vers STM32.
-- Adaptation prévue de la configuration PlatformIO.
-- Adaptation de certaines variable propre à l'arduino.
 
-### Raison de la migration
-L’intégration de la SpO2 nécessite de stocker simultanément plusieurs échantillons des signaux RED et IR.
+* Portage du projet sur **STM32F401RE Nucleo-64**.
+* Support de l’environnement **PlatformIO** pour STM32.
+* Mise en place de la base matérielle pour les futurs développements.
 
-Lors des premiers essais sur Arduino Uno, PlatformIO indiquait une utilisation mémoire largement supérieure à la capacité disponible.
+
+### Notes
+
+* Cette version correspond à une première étape de migration vers STM32.
 
 ---
 
